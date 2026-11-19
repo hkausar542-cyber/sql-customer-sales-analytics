@@ -1,0 +1,11 @@
+product_id,product_name,category,list_price
+1,Laptop,Electronics,650
+2,Mouse,Accessories,15
+3,Keyboard,Accessories,30
+4,Monitor,Electronics,180
+5,Headphones,Accessories,45
+6,Printer,Electronics,120
+7,Desk Chair,Furniture,95
+8,Desk,Furniture,140
+9,Webcam,Accessories,35
+10,Tablet,Electronics,300
